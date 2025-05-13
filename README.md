@@ -68,7 +68,7 @@ python kim_500_milyon_ister.py
   - **J3:** Seyirci jokerini kullanır.
   - **W:** Yarışmadan çekilirsiniz ve mevcut kazancınızı alırsınız.
 - Her doğru cevapla bir üst seviyeye geçersiniz.
-- 5. ve 10. soruları geçtiğinizde garanti parayı güvenceye alırsınız.
+-  5 ve 10. soruları geçtiğinizde garanti parayı güvenceye alırsınız.
 - Yanlış cevaplarsanız, o noktaya kadar ulaştığınız garanti tutar size verilir.
 
 ---
