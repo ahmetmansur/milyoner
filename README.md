@@ -48,8 +48,7 @@ python --version
 
 ### 2. Projeyi indir:
 ```bash
-git clone https://github.com/kullanici-adi/kim-500-milyon-ister.git
-cd kim-500-milyon-ister
+https://github.com/ahmetmansur/milyoner
 ```
 
 ### 3. Oyunu başlat:
